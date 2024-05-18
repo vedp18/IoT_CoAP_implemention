@@ -1,0 +1,12 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "coap/lib/californium-core-2.7.4.jar",
+        "coap/lib/californium-legal-2.7.4.jar",
+        "coap/lib/eddsa-0.3.0.jar",
+        "coap/lib/element-connector-2.7.4.jar",
+        "coap/lib/slf4j-api-1.7.36.jar",
+        "coap/lib/slf4j-api-2.0.7.jar",
+        "coap/lib/slf4j-simple-2.0.7.jar"
+    ]
+}
